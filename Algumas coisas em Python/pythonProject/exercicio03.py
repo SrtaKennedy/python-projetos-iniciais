@@ -1,0 +1,5 @@
+nome = input('Diga seu nome: ')
+idade = input('Qual é a sua idade: ')
+mês = input('Em que mês você nasceu: ')
+data = input('Em que ano você nasceu: ')
+print('Seu nome é', nome, 'tem', idade, 'e', 'nasceu', 'em', mês, 'do ano de', data)
