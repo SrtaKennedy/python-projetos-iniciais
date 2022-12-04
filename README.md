@@ -1,2 +1,4 @@
-# python-projetos-iniciais
+# Feito em Python
+
+Alguns projetinhos como treinamentos.
 
